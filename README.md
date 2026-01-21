@@ -44,6 +44,7 @@ A full-stack web application for booking doctor appointments with separate patie
 - Payment gateway
 - Email notifications
 - SMS reminders
+- Teleconsultation platform
 
 ## Project Structure
 
